@@ -3,11 +3,6 @@
   <em>用户友好 | 可视化图形界面 | 多模型支持 | 本地数据安全</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/iOfficeAI/TJADCoWork/releases">
-    <img src="https://img.shields.io/badge/⬇️%20立即下载-最新版本-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="下载最新版本" height="50">
-  </a>
-</p>
 
 <p align="center">
   <strong>💬 社区：</strong> <a href="https://discord.gg/2QAwJn7Egx" target="_blank">Discord (English)</a> | <a href="./resources/wx.png" target="_blank">微信 (中文群)</a>
@@ -28,11 +23,6 @@
 
 ---
 
-## ✨ 看看 TJADCoWork 能做什么？
-
-<p align="center">
-  <img src="./resources/offica-ai%20BANNER-function.png" alt="TJADCoWork - Cowork with Your CLI AI Agent" width="800">
-</p>
 
 ### 🤖 **多代理模式 - Cowork for 你的命令行 AI 工具，统一图形界面**
 
@@ -41,13 +31,13 @@ _TJADCoWork 内置 Gemini CLI，下载即用，无需额外安装；如果你已
 - ✅ **自动检测 + 统一界面** - 自动识别本地 CLI 工具，提供统一的图形界面，告别命令行
 - ✅ **本地保存 + 多会话** - 对话保存在本地，支持多会话并行，每个会话独立上下文
 
-<p align="center">
+<!-- <p align="center">
   <img src="./resources/acp%20home%20page.gif" alt="多代理模式演示" width="800">
 </p>
 
 <p align="center">
   <img src="./resources/openclawvia.png" alt="TJADCoWork 中的 OpenClaw 集成" width="800">
-</p>
+</p> -->
 
 ---
 
@@ -70,9 +60,9 @@ TJADCoWork 提供多种远程访问方式：
 
   > 💡 **如何设置：** 前往 TJADCoWork 设置 → WebUI 设置 → Channel，配置对应的 Bot Token 即可开始使用！
 
-<p align="center">
+<!-- <p align="center">
   <img src="./resources/remote-telegram.png" alt="随时随地访问 - WebUI & 聊天平台" width="800">
-</p>
+</p> -->
 
 ---
 
@@ -84,9 +74,9 @@ _设置好定时任务后，AI 助手会按照你设定的时间自动执行，�
 - **灵活设置时间** - 每天、每周、每月都可以
 - **简单易用** - 创建、修改、开启/关闭、删除，随时查看和调整
 
-<p align="center">
+<!-- <p align="center">
   <img src="./resources/alart-task.png" alt="定时任务演示" width="800">
-</p>
+</p> -->
 
 > 💡 **使用场景：** 定时汇总数据、定期生成报告、自动整理文件、定时提醒等
 
@@ -112,9 +102,9 @@ _支持 9+ 种格式的可视化预览（PDF、Word、Excel、PPT、代码、Mar
 - ✅ **立即查看效果** - AI 生成文件后，无需切换应用，立即查看预览
 - ✅ **实时追踪 + 可编辑** - 自动追踪文件变更，编辑器与预览智能同步；支持 Markdown、代码、HTML 实时编辑，所见即所得
 
-<p align="center">
+<!-- <p align="center">
   <img src="./resources/preview.gif" alt="预览面板演示" width="800">
-</p>
+</p> -->
 
 ---
 
@@ -122,9 +112,9 @@ _支持 9+ 种格式的可视化预览（PDF、Word、Excel、PPT、代码、Mar
 
 _智能图像生成、编辑和识别，由 Gemini 驱动_
 
-<p align="center">
+<!-- <p align="center">
   <img src="./resources/Image_Generation.gif" alt="AI 图像生成演示" width="800">
-</p>
+</p> -->
 
 > 💡 **需要帮助设置免费图像生成？** [按照教程配置图像生成模型](https://github.com/iOfficeAI/TJADCoWork/wiki/TJADCoWork-Image-Generation-Tool-Model-Configuration-Guide-Chinese)
 
@@ -134,9 +124,9 @@ _智能图像生成、编辑和识别，由 Gemini 驱动_
 
 _支持 Gemini、OpenAI、Claude、Qwen 等主流模型，以及 Ollama、LM Studio 等本地模型。灵活切换不同模型，满足各种任务需求。_
 
-<p align="center">
+<!-- <p align="center">
   <img src="./resources/multi-model.png" alt="多模型支持" width="800">
-</p>
+</p> -->
 
 ---
 
@@ -174,15 +164,15 @@ TJADCoWork 内置 **10+ 个专业助手**，每个助手都具备预定义能力
 
 _自己写 CSS 代码自定义，让你的交互界面符合你的心意_
 
-<p align="center">
+<!-- <p align="center">
   <img src="./resources/css%20with%20skin.gif" alt="CSS 自定义界面演示" width="800">
-</p>
+</p> -->
 
 - ✅ **完全自定义** - 通过 CSS 代码自由定制界面颜色、风格、布局，打造专属使用体验
 
 ---
 
-### 💬 **多任务并行处理**
+<!-- ### 💬 **多任务并行处理**
 
 _开多个对话、任务不混乱、记忆独立、效率翻倍_
 
@@ -192,7 +182,7 @@ _开多个对话、任务不混乱、记忆独立、效率翻倍_
 <p align="center">
   <img src="./resources/multichat-side-by-side.gif" alt="对话管理演示" width="800">
 </p>
-</details>
+</details> -->
 
 ---
 
@@ -212,7 +202,7 @@ TJADCoWork 为这些命令行工具提供统一的 **Cowork 能力**：
 - 📄 **实时预览** - 9+ 种格式可视化预览，AI 生成的文件立即查看效果
 - 💾 **本地数据安全** - 所有对话和文件保存在本地，数据不离开你的设备
 
-### ❓ 快速问答
+<!-- ### ❓ 快速问答
 
 <details>
 <summary><strong>Q: 为什么 TJADCoWork是你Claude Cowork不错的替换选择？</strong></summary>
@@ -259,8 +249,7 @@ A: 支持 Gemini、OpenAI、Claude、Qwen 等主流模型，以及 Ollama、LM S
 <details>
 <summary><strong>Q: 数据安全吗？</strong></summary>
 A: 所有对话数据存储在本地 SQLite 数据库，不会上传到任何服务器。
-</details>
-
+</details> 
 ---
 
 ### 📰 社区文章
@@ -268,6 +257,7 @@ A: 所有对话数据存储在本地 SQLite 数据库，不会上传到任何服
 - [爆火！开源免费版 Cowork，全模型接入+文件自主操作，重新定义 AI 办公。](https://mp.weixin.qq.com/s/F3f-CCsVPaK3lK00jXhOOg) — 开源AI项目落地
 - [让普通人也能像用 APP 一样用上 Claude Code，ACP 协议是什么](https://mp.weixin.qq.com/s/TsMojSbkUUFvsd-HQCazZg) — 懒猫爱摸鱼
 - [5500星：开源如何撬动 Anthropic 的 AI 工具护城河](https://mp.weixin.qq.com/s/saEk49cYV6MqBgw19Lw6Gw) — AI硅基时刻
+
 
 ---
 
@@ -388,7 +378,7 @@ brew install TJADCoWork
   <a href="https://packycode.com" target="_blank">PackyCode</a> 是一家可靠高效的 API 中继服务提供商，为 Claude Code、Codex、Gemini 等平台提供中继服务。感谢 PackyCode 为支持 TJADCoWork 用户低成本使用，为我们的用户提供专属 <a href="https://www.packyapi.com/register?aff=TJADCoWork" target="_blank">9折优惠</a>，付款时使用优惠码 <code>TJADCoWork</code> 可立减 10%。
 </td>
 </tr>
-</table>
+</table>-->
 
 ---
 
