@@ -1,489 +1,397 @@
-﻿<p align="center">
-  <img src="./resources/aionui-banner-1.png" alt="AionUi - Cowork with Your CLI AI Agent" width="100%">
+<p align="center">
+  <strong>🚀 基于 Gemini CLI、Claude Code、Codex、Qwen Code、Goose CLI、OpenClaw、Auggie 等的「Cowork」个人助手</strong><br>
+  <em>用户友好 | 可视化图形界面 | 多模型支持 | 本地数据安全</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/iOfficeAI/AionUi?style=flat-square&color=32CD32" alt="Version">
-  &nbsp;
-  <img src="https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white" alt="License">
-  &nbsp;
-  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?style=flat-square&logo=linux&logoColor=white" alt="Platform">
-</p>
-
-<p align="center">
-  <a href="https://trendshift.io/repositories/15423" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/15423" alt="GitHub Trending" height="80">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>🚀 Cowork with Your AI, Gemini CLI, Claude Code, Codex, Qwen Code, Goose CLI, Auggie, and more</strong><br>
-  <em>User-friendly | Visual graphical interface | Multi-model support | Local data security</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/iOfficeAI/AionUi/releases">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Now-Latest%20Release-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Release" height="50">
+  <a href="https://github.com/iOfficeAI/TJADCoWork/releases">
+    <img src="https://img.shields.io/badge/⬇️%20立即下载-最新版本-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="下载最新版本" height="50">
   </a>
 </p>
 
 <p align="center">
-  <strong>English</strong> | <a href="./readme_ch.md">简体中文</a> | <a href="./readme_tw.md">繁體中文</a> | <a href="./readme_jp.md">日本語</a> | <a href="./readme_ko.md">한국어</a> | <a href="./readme_es.md">Español</a> | <a href="./readme_pt.md">Português</a> | <a href="./readme_tr.md">Türkçe</a> | <a href="https://www.aionui.com" target="_blank">Official Website</a> | <a href="https://twitter.com/AionUI" target="_blank">Twitter</a>
-</p>
-
-<p align="center">
-  <strong>💬 Community:</strong> <a href="https://discord.gg/2QAwJn7Egx" target="_blank">Discord (English)</a> | <a href="./resources/wx.png" target="_blank">微信 (中文群)</a>
+  <strong>💬 社区：</strong> <a href="https://discord.gg/2QAwJn7Egx" target="_blank">Discord (English)</a> | <a href="./resources/wx.png" target="_blank">微信 (中文群)</a>
 </p>
 
 ---
 
-## 📋 Quick Navigation
+## 📋 快速导航
 
 <p align="center">
 
-[✨ What Can AionUi Do?](#✨-what-can-aionui-do) ·
-[🤔 Why Choose AionUi?](#🤔-why-choose-aionui) ·
-[✨ Core Features](#✨-core-features) ·
-[🚀 Quick Start](#🚀-quick-start) ·
-[💬 Community](#🤝-community--support)
+[✨ 看看能做什么](#✨-看看-TJADCoWork-能做什么) ·
+[🤔 为什么选择 TJADCoWork](#🤔-为什么选择-TJADCoWork) ·
+[🚀 快速开始](#🚀-快速开始) ·
+[💬 社区交流](#🤝-社区与支持)
 
 </p>
 
 ---
 
-## ✨ What Can AionUi Do?
+## ✨ 看看 TJADCoWork 能做什么？
 
 <p align="center">
-  <img src="./resources/offica-ai BANNER-function.png" alt="AionUi - Cowork with Your CLI AI Agent" width="800">
+  <img src="./resources/offica-ai%20BANNER-function.png" alt="TJADCoWork - Cowork with Your CLI AI Agent" width="800">
 </p>
 
-### 🤖 **Multi-Agent Mode - Cowork for Your Command-Line AI Tools, Unified Graphical Interface**
+### 🤖 **多代理模式 - Cowork for 你的命令行 AI 工具，统一图形界面**
 
-_AionUi comes with built-in Gemini CLI, ready to use out of the box with no additional installation required; if you have already installed command-line tools like Gemini CLI, Claude Code, CodeX, Qwen Code, Goose AI, Augment Code, AionUi will automatically detect them and provide a unified graphical interface for a richer experience_
+_TJADCoWork 内置 Gemini CLI，下载即用，无需额外安装；如果你已经安装了 Gemini CLI、Claude Code、CodeX、Qwen Code、Goose AI、OpenClaw、Augment Code 等命令行工具，TJADCoWork 会自动检测并为它们提供统一的图形界面，体验更丰富_
 
-- ✅ **Auto Detection + Unified Interface** - Automatically recognizes local CLI tools, provides a unified graphical interface, say goodbye to command line
-- ✅ **Local Storage + Multi-Session** - Conversations saved locally, supports multiple parallel sessions, each session with independent context
+- ✅ **自动检测 + 统一界面** - 自动识别本地 CLI 工具，提供统一的图形界面，告别命令行
+- ✅ **本地保存 + 多会话** - 对话保存在本地，支持多会话并行，每个会话独立上下文
 
 <p align="center">
-  <img src="./resources/acp home page.gif" alt="Multi-Agent Mode Demo" width="800">
+  <img src="./resources/acp%20home%20page.gif" alt="多代理模式演示" width="800">
 </p>
 
 <p align="center">
-  <img src="./resources/openclawvia.png" alt="OpenClaw Integration in AionUi" width="800">
-</p>
-
----
-
-### 🌐 **Access Your AionUi Anywhere**
-
-_Your 7×24 hour AI assistant - Access AionUi from any device, anywhere! On business trips, at home, in the office, use your AI tools anytime, anywhere through WebUI or various chat platforms_
-
-AionUi provides multiple remote access methods:
-
-- **🌐 WebUI Mode**
-
-  Access AionUi from any device via browser - phone, tablet, computer. Supports LAN, cross-network, and server deployment. You can log in by scanning a QR code or using account password, making it simple and convenient.
-
-  > 💡 **Need detailed configuration guide?** Check out [Remote Internet Access Tutorial](https://github.com/iOfficeAI/AionUi/wiki/Remote-Internet-Access-Guide-Chinese)
-
-  <p align="center">
-    <img src="./resources/webui-remote.png" alt="WebUI Remote Access" width="800">
-  </p>
-
-- **📱 Chat Platform Integration**
-  - **Telegram** - Chat with your AI assistant directly from Telegram on any device. Simple pairing code system for secure access.
-  - **Lark (Feishu)** - Interact with your AI assistant through Feishu bots, supporting enterprise collaboration scenarios.
-  - **Slack** and more platforms coming soon 🚧
-
-  > 💡 **How to set up:** Go to AionUi Settings → WebUI Settings → Channel, configure the corresponding Bot Token to get started!
-
-<p align="center">
-  <img src="./resources/remote-telegram.png" alt="Access Anywhere - WebUI & Chat Platforms" width="800">
+  <img src="./resources/openclawvia.png" alt="TJADCoWork 中的 OpenClaw 集成" width="800">
 </p>
 
 ---
 
-### ⏰ **Scheduled Tasks - Let AionUi Automate Your Work**
+### 🌐 **随时随地访问你的TJADCoWork**
 
-_After setting up scheduled tasks, the AI assistant will automatically execute according to your set time, truly achieving 7×24 hours unattended operation_
+_你的 7×24 小时 AI 助手 - 从任何设备、任何地方访问 TJADCoWork！出差、在家、办公室，随时随地通过 WebUI 或多种聊天平台使用你的 AI 工具_
 
-- **Free Conversation** - Tell AI what to do using natural language, just like chatting normally
-- **Flexible Time Setting** - Daily, weekly, monthly are all possible
-- **Simple and Easy** - Create, modify, enable/disable, delete, view and adjust anytime
+TJADCoWork 提供多种远程访问方式：
 
-<p align="center">
-  <img src="./resources/alart-task.png" alt="Scheduled Tasks Demo" width="800">
-</p>
+- **🌐 WebUI 模式**
 
-> 💡 **Use Cases:** Scheduled data aggregation, regular report generation, automatic file organization, scheduled reminders, etc.
+  通过浏览器从任何设备访问 TJADCoWork - 手机、平板、电脑。支持局域网、跨网络和服务器部署。可以通过扫描二维码或账号密码登录，操作简单方便。
 
----
+  > 💡 **需要详细配置指南？** 查看 [远程外网连接教程](https://github.com/iOfficeAI/TJADCoWork/wiki/Remote-Internet-Access-Guide-Chinese)
 
-### 📁 **Smart File Management (AI Cowork)**
+- **📱 聊天平台集成**
+  - **Telegram** - 在任何设备上与 AI 助手聊天
+  - **Lark (Feishu/飞书)** - 通过飞书机器人进行企业协作
+  - **Slack** 等更多平台正在开发中 🚧
 
-_Batch renaming, automatic organization, smart classification, file merging_
-
-- **Auto Organize**: Intelligently identify content and auto-classify, keeping folders tidy.
-- **Efficient Batch**: One-click rename, merge files, say goodbye to tedious manual tasks.
+  > 💡 **如何设置：** 前往 TJADCoWork 设置 → WebUI 设置 → Channel，配置对应的 Bot Token 即可开始使用！
 
 <p align="center">
-  <img src="./resources/aionui sort file.gif" alt="Smart File Management Demo" width="800">
+  <img src="./resources/remote-telegram.png" alt="随时随地访问 - WebUI & 聊天平台" width="800">
 </p>
 
 ---
 
-### 📄 **Preview Panel - Quickly View AI-Generated Results**
+### ⏰ **定时任务 - TJADCoWork帮你自动完成任务**
 
-_Supports 9+ formats of visual preview (PDF, Word, Excel, PPT, code, Markdown, images, HTML, Diff, etc.)_
+_设置好定时任务后，AI 助手会按照你设定的时间自动执行，真正实现 7×24 小时无人值守_
 
-- ✅ **View Results Instantly** - After AI generates files, view preview immediately without switching apps
-- ✅ **Real-time Tracking + Editable** - Automatically tracks file changes, editor and preview sync intelligently; supports real-time editing of Markdown, code, HTML, WYSIWYG
+- **自由对话** - 用自然语言告诉 AI 要做什么，就像平时聊天一样
+- **灵活设置时间** - 每天、每周、每月都可以
+- **简单易用** - 创建、修改、开启/关闭、删除，随时查看和调整
 
 <p align="center">
-  <img src="./resources/preview.gif" alt="Preview Panel Demo" width="800">
+  <img src="./resources/alart-task.png" alt="定时任务演示" width="800">
+</p>
+
+> 💡 **使用场景：** 定时汇总数据、定期生成报告、自动整理文件、定时提醒等
+
+---
+
+### 📁 **智能文件管理 (AI Cowork)**
+
+_批量重命名、自动整理、智能分类、文件合并_
+
+- **自动整理**：智能识别内容并自动分类，让文件夹保持整洁。
+- **高效批量**：一键重命名、合并文件，彻底告别繁琐手动。
+
+<p align="center">
+  <img src="./resources/TJADCoWork%20sort%20file.gif" alt="智能文件管理演示" width="800">
 </p>
 
 ---
 
-### 🎨 **AI Image Generation & Editing**
+### 📄 **预览面板 - 快速查看 AI 生成效果**
 
-_Intelligent image generation, editing, and recognition, powered by Gemini_
+_支持 9+ 种格式的可视化预览（PDF、Word、Excel、PPT、代码、Markdown、图片、HTML、Diff 等）_
 
-<p align="center">
-  <img src="./resources/Image_Generation.gif" alt="AI Image Generation Demo" width="800">
-</p>
-
-> 💡 **Need help setting up free image generation?** [Follow the tutorial to configure image generation models](https://github.com/iOfficeAI/AionUi/wiki/AionUi-Image-Generation-Tool-Model-Configuration-Guide)
-
----
-
-### 🤖 **Multi-Model Support**
-
-_Supports mainstream models like Gemini, OpenAI, Claude, Qwen, as well as local models like Ollama, LM Studio. Flexibly switch between different models to meet various task requirements._
+- ✅ **立即查看效果** - AI 生成文件后，无需切换应用，立即查看预览
+- ✅ **实时追踪 + 可编辑** - 自动追踪文件变更，编辑器与预览智能同步；支持 Markdown、代码、HTML 实时编辑，所见即所得
 
 <p align="center">
-  <img src="./resources/multi-model.png" alt="Multi-Model Support" width="800">
+  <img src="./resources/preview.gif" alt="预览面板演示" width="800">
 </p>
 
 ---
 
+### 🎨 **AI 图像生成与编辑**
+
+_智能图像生成、编辑和识别，由 Gemini 驱动_
+
+<p align="center">
+  <img src="./resources/Image_Generation.gif" alt="AI 图像生成演示" width="800">
+</p>
+
+> 💡 **需要帮助设置免费图像生成？** [按照教程配置图像生成模型](https://github.com/iOfficeAI/TJADCoWork/wiki/TJADCoWork-Image-Generation-Tool-Model-Configuration-Guide-Chinese)
+
 ---
 
-### 🛠️ **AI Assistants & Skills Ecosystem**
+### 🤖 **多模型支持**
 
-_Extensible assistant system with built-in specialized assistants and custom skill support_
+_支持 Gemini、OpenAI、Claude、Qwen 等主流模型，以及 Ollama、LM Studio 等本地模型。灵活切换不同模型，满足各种任务需求。_
+
+<p align="center">
+  <img src="./resources/multi-model.png" alt="多模型支持" width="800">
+</p>
+
+---
+
+### 🛠️ **AI 助手与技能生态**
+
+_可扩展的助手系统，内置专业助手，支持自定义技能_
 
 <details>
-<summary><strong>🔍 Click to explore AI Assistants & Skills ▶️</strong></summary>
+<summary><strong>🔍 点击探索 AI 助手与技能 ▶️</strong></summary>
 
 <br>
 
-AionUi includes **10+ professional assistants** with predefined capabilities, extendable through custom skills:
+TJADCoWork 内置 **10+ 个专业助手**，每个助手都具备预定义能力，可通过自定义技能扩展：
 
-- **🤝 Cowork** - Autonomous task execution (file operations, document processing, workflow planning)
-- **📊 PPTX Generator** - Generate PPTX presentations
-- **📄 PDF to PPT** - Convert PDF to PPT
-- **🎮 3D Game** - Single-file 3D game generation
-- **🎨 UI/UX Pro Max** - Professional UI/UX design (57 styles, 95 color palettes)
-- **📋 Planning with Files** - File-based planning for complex tasks
-- **🧭 HUMAN 3.0 Coach** - Personal development coach
-- **📣 Social Job Publisher** - Job posting and publishing
-- **🦞 moltbook** - Zero-deployment integration with automatic heartbeat scheduling, activity reporting, and seamless AI agent social networking
-- **📈 Beautiful Mermaid** - Flowcharts, sequence diagrams, and more
+- **🤝 Cowork** - 自主任务执行（文件操作、文档处理、工作流规划）
+- **📊 PPTX 生成器** - 生成 PPTX 演示文稿
+- **📄 PDF 转 PPT** - PDF 转 PPT 转换
+- **🎮 3D 游戏生成** - 单文件 3D 游戏生成
+- **🎨 UI/UX 专业设计师** - 专业 UI/UX 设计（57 种风格、95 个配色方案）
+- **📋 文件规划助手** - 复杂任务的文件规划
+- **🧭 HUMAN 3.0 教练** - 个人发展教练
+- **📣 社交招聘发布助手** - 招聘信息发布
+- **🦞 moltbook** - 免部署集成，支持自动定时触发、活动汇报推送，无缝接入 AI 代理社交网络
+- **📈 Beautiful Mermaid** - 流程图、时序图等图表生成
 
-**Custom Skills**: Create skills in the `skills/` directory, enable/disable skills for assistants to extend AI capabilities. Built-in skills include `pptx`, `docx`, `pdf`, `xlsx`, `mermaid`, and more.
+**自定义技能**：在 `skills/` 目录创建技能，为助手启用/禁用技能，扩展 AI 能力。内置技能包括 `pptx`、`docx`、`pdf`、`xlsx`、`mermaid` 等。
 
-> 💡 Each assistant is defined by a markdown file. Check the `assistant/` directory for examples.
+> 💡 每个助手由 markdown 文件定义，查看 `assistant/` 目录获取示例。
 
 </details>
 
-### 🎨 **Personalized Interface Customization**
+---
 
-_Customize with your own CSS code, make your interface match your preferences_
+### 🎨 **个性化界面定制**
+
+_自己写 CSS 代码自定义，让你的交互界面符合你的心意_
 
 <p align="center">
-  <img src="./resources/css with skin.gif" alt="CSS Custom Interface Demo" width="800">
+  <img src="./resources/css%20with%20skin.gif" alt="CSS 自定义界面演示" width="800">
 </p>
 
-- ✅ **Fully Customizable** - Freely customize interface colors, styles, layout through CSS code, create your exclusive experience
+- ✅ **完全自定义** - 通过 CSS 代码自由定制界面颜色、风格、布局，打造专属使用体验
 
 ---
 
-### 💬 **Multi-Task Parallel Processing**
+### 💬 **多任务并行处理**
 
-_Open multiple conversations, tasks don't get mixed up, independent memory, double efficiency_
+_开多个对话、任务不混乱、记忆独立、效率翻倍_
 
 <details>
-<summary><strong>🎬 Click to view demo ▶️</strong></summary>
+<summary><strong>🎬 点击查看演示 ▶️</strong></summary>
 <br>
 <p align="center">
-  <img src="./resources/multichat-side-by-side.gif" alt="Conversation Management Demo" width="800">
+  <img src="./resources/multichat-side-by-side.gif" alt="对话管理演示" width="800">
 </p>
 </details>
 
 ---
 
-## 🤔 Why Choose AionUi?
+## 🤔 为什么选择 TJADCoWork？ | 像 Claudebot 一样好用
 
-**Just like Claude Cowork makes Claude Code easier to use, AionUi is the Cowork platform for all your command-line AI tools**
+**就像 Claude Cowork 让 Claude Code 更易用，TJADCoWork 是你所有命令行 AI 工具的 Cowork 平台**
 
-While command-line tools like Gemini CLI, Claude Code, Codex, Qwen Code are powerful, they share common pain points: conversations can't be saved, single-session limitations, cumbersome file operations, and only support a single model.
+Gemini CLI、Claude Code、Codex、Qwen Code 等命令行工具虽然强大，但存在通用痛点：对话无法保存、单会话限制、文件操作繁琐、只能使用单一模型。
 
-AionUi provides unified **Cowork capabilities** for these command-line tools:
+TJADCoWork 为这些命令行工具提供统一的 **Cowork 能力**：
 
-- 🎯 **Unified Platform** - One interface to manage all command-line AI tools, no switching needed; built-in Gemini CLI, ready to use out of the box and completely free
-- 🚀 **Multi-Tool Support** - Not only supports Claude Code, but also Gemini CLI, Codex, Qwen Code, and more
-- 🖥️ **Cross-Platform** - Full platform support for macOS, Windows, Linux (Claude Cowork currently only macOS)
-- 🌐 **Remote Access** - Your remote 24/7 assistant, access anytime, anywhere, and completely free
-- 🔄 **Multi-Model Switching** - Flexibly switch between different models in the same interface, meeting different task requirements
-- 📄 **Real-time Preview** - Visual preview for 9+ formats, immediately view the effects of AI-generated files
-- 💾 **Local Data Security** - All conversations and files saved locally, data never leaves your device
+- 🎯 **统一平台** - 一个界面管理所有命令行 AI 工具，无需切换；内置 Gemini CLI，下载即用且完全免费
+- 🚀 **多工具支持** - 不仅支持 Claude Code，还支持 Gemini CLI、Codex、Qwen Code 等
+- 🖥️ **跨平台** - macOS、Windows、Linux 全平台支持（Claude Cowork 目前仅 macOS）
+- 🌐 **远程访问** - 你的 24/7 AI 助手，随时随地访问，完全免费（Claude Cowork 无远程访问功能）
+- 🔄 **多模型切换** - 在同一个界面中灵活切换不同模型，满足不同任务需求
+- 📄 **实时预览** - 9+ 种格式可视化预览，AI 生成的文件立即查看效果
+- 💾 **本地数据安全** - 所有对话和文件保存在本地，数据不离开你的设备
 
-### ❓ Quick Q&A
+### ❓ 快速问答
 
 <details>
-<summary><strong>Q: Why is AionUi a great replacement for Claude Cowork?</strong></summary>
-A: AionUi is a **free and open-source** **Multi-AI Agent Desktop**. Compared to the official Cowork which only runs on macOS and is locked to Claude, AionUi is its **full-model, cross-platform enhanced version**, deeply covering **AI Office Automation** scenarios.
+<summary><strong>Q: 为什么 TJADCoWork是你Claude Cowork不错的替换选择？</strong></summary>
+A: TJADCoWork 是一款**免费开源**的 **Multi-AI Agent Desktop  **。相比于只能在 Mac 上运行且绑死 Claude 的官方 Cowork，TJADCoWork 是它的**全模型、跨平台增强版**，深度覆盖 **AI 办公自动化** 场景。
 
-| Dimension     | Claude Cowork        | AionUi (This Project)                       |
-| :------------ | :------------------- | :------------------------------------------ |
-| OS            | macOS Only           | 🍏 macOS / 🪟 Windows / 🐧 Linux            |
-| Model Support | Claude Only          | 🤖 Gemini, Claude, DeepSeek, OpenAI, Ollama |
-| Interaction   | GUI                  | 🖥️ Full GUI + WebUI Remote Access           |
-| Cost          | Subscription $100/mo | 🆓 Completely Free & Open Source            |
+| 维度     | Claude Cowork  | TJADCoWork (本项目)                         |
+| :------- | :------------- | :------------------------------------------ |
+| 操作系统 | 仅 macOS       | 🍏 macOS / 🪟 Windows / 🐧 Linux            |
+| 模型支持 | 仅 Claude      | 🤖 Gemini, Claude, DeepSeek, OpenAI, Ollama |
+| 交互形式 | GUI            | 🖥️ 全功能 GUI + WebUI 远程访问              |
+| 费用     | 需订阅 $100/月 | 🆓 完全免费开源                             |
 
-**Deep AI Office Scenario Support:**
+**深度 AI 办公场景支持：**
 
-- **File Management**: Intelligently organize messy local folders and batch rename with one click.
-- **Data Processing**: Deeply analyze and automatically beautify Excel reports.
-- **Document Generation**: Automatically write and format PPT, Word, and Markdown documents.
-- **Instant Preview**: Built-in 9+ format preview panels, making AI office collaboration results instantly visible.
+- **文件管理**：智能整理本地杂乱文件夹、一键批量重命名。
+- **数据处理**：深度分析并自动美化 Excel 报表。
+- **文档生成**：自动编写并排版 PPT、Word 与 Markdown 文档。
+- **即时预览**：内置 9+ 种格式预览面板，让 AI 办公协作结果即刻可见。
 </details>
 
 <details>
-<summary><strong>Q: What can I do with AionUi?</strong></summary>
-A: It can be your **private Cowork workspace**. You can let it help you batch organize folders, deeply beautify Excel, and preview web code in real-time. It's your best graphical choice for exploring office automation workflows and enhancing your experience with Claude Code or Gemini CLI.
+<summary><strong>Q: 我可以用 TJADCoWork 做什么？</strong></summary>
+A: 它可以成为你的**私有化 Cowork 工作空间**。你可以让它帮你批量整理文件夹、深度美化 Excel、实时预览网页代码。它是你探索办公自动化流程、增强 Claude Code 或 Gemini CLI 体验的最佳图形化选择。
 </details>
 
 <details>
-<summary><strong>Q: Is AionUi ready to use out of the box?</strong></summary>
-A: Yes! After installation, you can use it directly. AionUi comes with built-in Gemini CLI, no additional installation needed to start experiencing. If you have already installed and used command-line tools like Gemini CLI on your machine, AionUi will automatically detect them and provide a richer experience.
+<summary><strong>Q: TJADCoWork 是开箱即用吗？</strong></summary>
+A: 是的！安装后即可直接使用，内置 Gemini CLI，无需额外安装即可开始体验。如果你本机已安装并体验过 Gemini CLI 等命令行工具，TJADCoWork 会自动识别并提供更丰富的使用体验。
 </details>
 
 <details>
-<summary><strong>Q: Is it free?</strong></summary>
-A: AionUi is completely free and open source, but using AI models requires corresponding API Keys.
+<summary><strong>Q: 需要付费吗？</strong></summary>
+A: TJADCoWork 完全免费开源，但使用 AI 模型需要相应的 API Key。
 </details>
 
 <details>
-<summary><strong>Q: Which AI models are supported?</strong></summary>
-A: Supports mainstream models like Gemini, OpenAI, Claude, Qwen, as well as local models like Ollama, LM Studio.
+<summary><strong>Q: 支持哪些 AI 模型？</strong></summary>
+A: 支持 Gemini、OpenAI、Claude、Qwen 等主流模型，以及 Ollama、LM Studio 等本地模型。
 
-You can also run multiple AI Agents simultaneously (such as Gemini CLI, Claude Code, Qwen Code, etc.), see the configuration guide for details.
+还可以同时运行多个 AI Agent（如 Gemini CLI、Claude Code、Qwen Code 等），详见配置指南。
 
 </details>
 
 <details>
-<summary><strong>Q: Is my data secure?</strong></summary>
-A: All conversation data is stored in a local SQLite database and will not be uploaded to any server.
+<summary><strong>Q: 数据安全吗？</strong></summary>
+A: 所有对话数据存储在本地 SQLite 数据库，不会上传到任何服务器。
 </details>
 
 ---
 
-## 🎬 See How People Use AionUi
+### 📰 社区文章
 
-_Watch how content creators review and use AionUi in real-world scenarios_
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=yUU5E-U5B3M" target="_blank">
-    <img src="https://img.youtube.com/vi/yUU5E-U5B3M/maxresdefault.jpg" alt="WorldofAI Review" width="400">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=enQnkKfth10" target="_blank">
-    <img src="https://img.youtube.com/vi/enQnkKfth10/maxresdefault.jpg" alt="Julian Goldie SEO Review" width="400">
-  </a>
-</p>
-<p align="center">
-  <em>🎬 WorldofAI (200K subscribers)</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>🎬 Julian Goldie SEO (318K subscribers)</em>
-</p>
-
-### 📰 Community Articles
-
-- [🔥 Explosive! Open-source free version of Cowork, full model integration + autonomous file operations, redefining AI office work.](https://mp.weixin.qq.com/s/F3f-CCsVPaK3lK00jXhOOg) — Open Source AI Project Landing
-- [Making ordinary people use Claude Code like an APP, what is the ACP protocol](https://mp.weixin.qq.com/s/TsMojSbkUUFvsd-HQCazZg) — Lazy Cat Loves Fishing
-- [5500 Stars: How Open Source Breaks Anthropic's AI Tool Moat](https://mp.weixin.qq.com/s/saEk49cYV6MqBgw19Lw6Gw) — AI Silicon Moment
-
-> 💡 **Have you made a video about AionUi?** [Let us know on X](https://x.com/AionUi) and we'll feature it here! We value your feedback and will continue to improve based on your suggestions.
-
-### 📰 Community Articles
-
-- [🔥 Explosive! Open-source free version of Cowork, full model integration + autonomous file operations, redefining AI office work.](https://mp.weixin.qq.com/s/F3f-CCsVPaK3lK00jXhOOg) — Open Source AI Project Landing
-- [Making ordinary people use Claude Code like an APP, what is the ACP protocol](https://mp.weixin.qq.com/s/TsMojSbkUUFvsd-HQCazZg) — Lazy Cat Loves Fishing
-- [5500 Stars: How Open Source Breaks Anthropic's AI Tool Moat](https://mp.weixin.qq.com/s/saEk49cYV6MqBgw19Lw6Gw) — AI Silicon Moment
+- [爆火！开源免费版 Cowork，全模型接入+文件自主操作，重新定义 AI 办公。](https://mp.weixin.qq.com/s/F3f-CCsVPaK3lK00jXhOOg) — 开源AI项目落地
+- [让普通人也能像用 APP 一样用上 Claude Code，ACP 协议是什么](https://mp.weixin.qq.com/s/TsMojSbkUUFvsd-HQCazZg) — 懒猫爱摸鱼
+- [5500星：开源如何撬动 Anthropic 的 AI 工具护城河](https://mp.weixin.qq.com/s/saEk49cYV6MqBgw19Lw6Gw) — AI硅基时刻
 
 ---
 
-## ✨ Core Features
-
-### 💬 **Multi-Session Chat**
-
-- **Multi-Session + Independent Context** - Open multiple chats simultaneously, each session has independent context memory, no confusion
-- **Local Storage** - All conversations are saved locally and will not be lost
-
-### 🤖 **Multi-Model Support**
-
-- **Multi-Platform Support** - Supports mainstream models like Gemini, OpenAI, Claude, Qwen, flexible switching
-- **Local Model Support** - Supports local model deployment like Ollama, LM Studio, select Custom platform and set local API address (e.g., `http://localhost:11434/v1`) to connect
-- **Gemini 3 Subscription Optimization** - Automatically identifies subscribed users, recommends advanced models
-
-### 🗂️ **File Management**
-
-- **File Tree Browsing + Drag & Drop Upload** - Browse files like folders, support drag and drop files or folders for one-click import
-- **Smart Organization** - You can let AI help organize folders, automatic classification
-
-### 📄 **Preview Panel - Give AI Agent a Display**
-
-- **9+ Format Preview** - Supports PDF, Word, Excel, PPT, code, Markdown, images, etc., view results immediately after AI generation
-- **Real-time Tracking + Editable** - Automatically tracks file changes, supports real-time editing and debugging of Markdown, code, HTML
-
-### 🎨 **AI Image Generation & Editing**
-
-- **Intelligent Image Generation** - Supports multiple image generation models like Gemini 2.5 Flash Image Preview, Nano, Banana
-- **Image Recognition & Editing** - AI-driven image analysis and editing features
-
-### 🌐 **WebUI Remote Access**
-
-- **Cross-Device Access** - Access from any device on the network via browser, supports mobile devices
-- **Local Data Security** - All data stored locally in SQLite database, suitable for server deployment
-
----
-
-## 📖 Detailed Usage Guide
+## 📖 详细使用说明
 
 <details>
-<summary><strong>📖 Expand to View Complete Usage Guide</strong></summary>
+<summary><strong>📖 展开查看完整使用说明</strong></summary>
 
-### 🚀 Quick Start
+### 🚀 快速入门
 
-- [📖 Complete Installation Guide](https://github.com/iOfficeAI/AionUi/wiki/Getting-Started) - Detailed steps from download to configuration
-- [⚙️ LLM Configuration Guide](https://github.com/iOfficeAI/AionUi/wiki/LLM-Configuration) - Multi-platform AI model configuration
-- [🤖 Multi-Agent Mode Setup](https://github.com/iOfficeAI/AionUi/wiki/ACP-Setup) - Integrate terminal AI agents
-- [🔌 MCP Tool Configuration](https://github.com/iOfficeAI/AionUi/wiki/MCP-Configuration-Guide) - Model Context Protocol server setup
-- [🎨 Image Generation Configuration](https://github.com/iOfficeAI/AionUi/wiki/AionUi-Image-Generation-Tool-Model-Configuration-Guide) - AI image generation setup tutorial
-- [🌐 WebUI Configuration Guide](https://github.com/iOfficeAI/AionUi/wiki/WebUI-Configuration-Guide) - Complete WebUI setup and configuration tutorial
+- [📖 完整安装指南](https://github.com/iOfficeAI/TJADCoWork/wiki/Getting-Started-Chinese) - 从下载到配置的详细步骤
+- [⚙️ LLM 配置指南](https://github.com/iOfficeAI/TJADCoWork/wiki/LLM-Configuration-Chinese) - 多平台 AI 模型配置
+- [🤖 多代理模式设置](https://github.com/iOfficeAI/TJADCoWork/wiki/ACP-Setup-Chinese) - 集成终端 AI 代理
+- [🔌 MCP 工具配置](https://github.com/iOfficeAI/TJADCoWork/wiki/MCP-Configuration-Guide-Chinese) - 模型上下文协议服务器设置
+- [🎨 图像生成配置](https://github.com/iOfficeAI/TJADCoWork/wiki/TJADCoWork-Image-Generation-Tool-Model-Configuration-Guide-Chinese) - AI 图像生成设置教程
+- [🌐 WebUI 配置指南](https://github.com/iOfficeAI/TJADCoWork/wiki/WebUI-Configuration-Guide-Chinese) - 完整的 WebUI 设置和配置教程
 
-### 🎯 Use Cases
+### 🎯 使用案例
 
-- [📁 File Management](https://github.com/iOfficeAI/AionUi/wiki/file-management) - Smart file organization
-- [📊 Excel Processing](https://github.com/iOfficeAI/AionUi/wiki/excel-processing) - AI-driven data processing
-- [🎨 Image Generation](https://github.com/iOfficeAI/AionUi/wiki/AionUi-Image-Generation-Tool-Model-Configuration-Guide) - AI image creation
-- [📚 More Use Cases](https://github.com/iOfficeAI/AionUi/wiki/Use-Cases-Overview)
+- [📁 文件管理](https://github.com/iOfficeAI/TJADCoWork/wiki/file-management) - 智能文件整理
+- [📊 Excel 处理](https://github.com/iOfficeAI/TJADCoWork/wiki/excel-processing) - AI 驱动的数据处理
+- [🎨 图像生成](https://github.com/iOfficeAI/TJADCoWork/wiki/TJADCoWork-Image-Generation-Tool-Model-Configuration-Guide-Chinese) - AI 图像创作
+- [📚 更多使用案例](https://github.com/iOfficeAI/TJADCoWork/wiki/Use-Cases-Overview-Chinese)
+  - [🎬 WorldofAI](https://www.youtube.com/watch?v=yUU5E-U5B3M) - YouTube 视频测评
+  - [🎬 Julian Goldie SEO](https://www.youtube.com/watch?v=enQnkKfth10) - YouTube 视频测评
 
-### ❓ Support & Help
+### ❓ 支持与帮助
 
-- [❓ FAQ](https://github.com/iOfficeAI/AionUi/wiki/FAQ) - Questions and troubleshooting
-- [🔧 Configuration & Usage Tutorials](https://github.com/iOfficeAI/AionUi/wiki/Configuration-Guides) - Complete configuration documentation
+- [❓ 常见问题](https://github.com/iOfficeAI/TJADCoWork/wiki/FAQ-Chinese) - 问题解答和故障排除
+- [🔧 配置与使用教程](https://github.com/iOfficeAI/TJADCoWork/wiki/Configuration-Guides-Chinese) - 完整配置文档
 
 </details>
 
 ---
 
-## 🚀 Quick Start
+## 🚀 快速开始
 
-### 💻 System Requirements
+### 💻 系统要求
 
-- **macOS**: 10.15 or higher
-- **Windows**: Windows 10 or higher
+- **macOS**: 10.15 或更高版本
+- **Windows**: Windows 10 或更高版本
 - **Linux**: Ubuntu 18.04+ / Debian 10+ / Fedora 32+
-- **Memory**: Recommended 4GB or more
-- **Storage**: At least 500MB available space
+- **内存**: 建议 4GB 以上
+- **存储**: 至少 500MB 可用空间
 
-### 📥 Download
+### 📥 下载
 
 <p>
-  <a href="https://github.com/iOfficeAI/AionUi/releases">
-    <img src="https://img.shields.io/badge/Download-Latest%20Release-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Release" height="50">
+  <a href="https://github.com/iOfficeAI/TJADCoWork/releases">
+    <img src="https://img.shields.io/badge/下载-最新版本-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="下载最新版本" height="50">
   </a>
 </p>
 
-### 🍺 Install via Homebrew (macOS)
+### 🍺 通过 Homebrew 安装 (macOS)
 
 ```bash
-brew install aionui
+brew install TJADCoWork
 ```
 
-### 🔧 Simple Installation
+### 🔧 简单安装
 
-1. **Download and install** AionUi application
-2. **Configure AI service** - Support Google account login or API Key authentication
-3. **Start using** - Immediately experience modern AI chat interface
+1. **下载并安装** TJADCoWork 应用程序
+2. **配置 AI 服务** - 支持 Google 账号登录或 API Key 认证
+3. **开始使用** - 立即体验现代 AI 聊天界面
 
-> 💡 **Need detailed configuration guide?** Check out our [Complete Installation Tutorial](https://github.com/iOfficeAI/AionUi/wiki/Getting-Started)
-
----
-
-## 🤝 Community & Support
-
-### 💬 Community
-
-**💡 Your ideas matter!** We highly value every user's suggestions and feedback. Whether it's feature ideas, user experience, or issues you encounter, feel free to contact us anytime!
-
-<p align="center">
-  <a href="https://x.com/AionUi" target="_blank">
-    <img src="./resources/contactus-x.png" alt="Contact Us on X" width="600">
-  </a>
-</p>
-
-- [💬 GitHub Discussions](https://github.com/iOfficeAI/AionUi/discussions) - **Share ideas, make suggestions, exchange usage tips**
-- [🐛 Report Issues](https://github.com/iOfficeAI/AionUi/issues) - Report bugs or feature requests
-- [📦 Release Updates](https://github.com/iOfficeAI/AionUi/releases) - Get the latest version
-- [💬 Discord Community](https://discord.gg/2QAwJn7Egx) - **Join our English Discord community**
-- [💬 WeChat (Chinese Group)](./resources/wx.png) - **Click to view QR code**
-- [💬 Discord Community](https://discord.gg/2QAwJn7Egx) - **Join our English Discord community**
-- [💬 WeChat (Chinese Group)](./resources/wx.png) - **Click to view QR code**
-
-### 🤝 Contributing
-
-Welcome to submit Issues and Pull Requests!
-
-1. Fork this project
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+> 💡 **需要详细配置指南？** 查看我们的 [完整安装教程](https://github.com/iOfficeAI/TJADCoWork/wiki/Getting-Started-Chinese)
 
 ---
 
-## 📄 License
+## 🤝 社区与支持
 
-This project is licensed under [Apache-2.0](LICENSE).
+### 💬 社区交流
+
+**💡 你的想法很重要！** 我们非常重视每一位用户的建议和反馈。无论是功能想法、使用体验，还是遇到的问题，都欢迎随时联系我们！
+
+<p align="center">
+  <a href="https://x.com/TJADCoWork" target="_blank">
+    <img src="./resources/contactus-x.png" alt="在 X 联系我们" width="600">
+  </a>
+</p>
+
+- [💬 GitHub Discussions](https://github.com/iOfficeAI/TJADCoWork/discussions) - **分享想法、提出建议、交流使用心得**
+- [🐛 报告问题](https://github.com/iOfficeAI/TJADCoWork/issues) - 反馈 Bug 或功能请求
+- [📦 发布更新](https://github.com/iOfficeAI/TJADCoWork/releases) - 获取最新版本
+- [💬 Discord Community](https://discord.gg/2QAwJn7Egx) - **加入我们的英文 Discord 社区**
+- [💬 微信 (中文群)](./resources/wx.png) - **点击查看二维码**
+
+### 🤝 贡献代码
+
+欢迎提交 Issue 和 Pull Request！
+
+1. Fork 本项目
+2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 打开 Pull Request
+
+### 🙏 特别感谢
+
+<table>
+<tr>
+<td width="170" align="center">
+  <a href="https://linux.do/" target="_blank">
+    <img src="./resources/linuxdo.png" alt="LINUX DO" width="150">
+  </a>
+</td>
+<td>
+  <a href="https://linux.do/" target="_blank">LINUX DO</a> - 新的理想型社区。
+</td>
+</tr>
+<tr>
+<td width="170" align="center">
+  <a href="https://packycode.com" target="_blank">
+    <img src="./resources/packycode.png" alt="PackyCode" width="150">
+  </a>
+</td>
+<td>
+  <a href="https://packycode.com" target="_blank">PackyCode</a> 是一家可靠高效的 API 中继服务提供商，为 Claude Code、Codex、Gemini 等平台提供中继服务。感谢 PackyCode 为支持 TJADCoWork 用户低成本使用，为我们的用户提供专属 <a href="https://www.packyapi.com/register?aff=TJADCoWork" target="_blank">9折优惠</a>，付款时使用优惠码 <code>TJADCoWork</code> 可立减 10%。
+</td>
+</tr>
+</table>
 
 ---
 
-## 👥 Contributors
+## 📄 许可证
 
-Thanks to all developers who have contributed to AionUi!
-
-<p align="center">
-  <a href="https://github.com/iOfficeAI/AionUi/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=iOfficeAI/AionUi&max=50" alt="Contributors" />
-  </a>
-</p>
-
-## 📊 Star History
-
-<p align="center">
-  <a href="https://www.star-history.com/#iOfficeAI/aionui&Date" target="_blank">
-    <img src="https://api.star-history.com/svg?repos=iOfficeAI/aionui&type=Date" alt="GitHub Star Trends" width="600">
-  </a>
-</p>
-
-<div align="center">
-
-**⭐ If you like it, give us a star**
-
-[Report Bug](https://github.com/iOfficeAI/AionUi/issues) · [Request Feature](https://github.com/iOfficeAI/AionUi/issues)
-
-</div>
+本项目采用 [Apache-2.0](LICENSE) 许可证。
