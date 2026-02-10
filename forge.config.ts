@@ -66,8 +66,8 @@ const resolveLoggerPort = (devPort: number, devPortOverridden: boolean): number 
 const { port: devServerPort, overridden: isDevPortOverridden } = resolveDevServerPort();
 const loggerPort = resolveLoggerPort(devServerPort, isDevPortOverridden);
 
-const apkName = 'AionUi_' + packageJson.version + '_' + (process.env.arch || process.arch);
-const skipNativeRebuild = process.env.FORGE_SKIP_NATIVE_REBUILD === 'true';
+const apkName = 'TJAD-CoWork_' + packageJson.version + '_' + (process.env.arch || process.arch);
+const skipNativeRebuild = true; // 强制跳过原生模块重建，使用预编译二进制
 
 // Use target arch from build script, not host arch
 const targetArch = process.env.ELECTRON_BUILDER_ARCH || process.env.npm_config_target_arch || process.env.arch || process.arch;
@@ -85,16 +85,16 @@ module.exports = {
     asar: {
       unpack: '**/node_modules/{node-pty,better-sqlite3,@mapbox,detect-libc,prebuild-install,node-gyp-build,bindings,web-tree-sitter,tree-sitter-bash}/**/*',
     }, // Enable asar with native modules and their dependencies unpacking
-    executableName: 'AionUi',
+    executableName: 'TJAD-CoWork',
     out: path.resolve(__dirname, 'out'),
-    tmpdir: path.resolve(__dirname, '../AionUi-tmp'),
+    tmpdir: path.resolve(__dirname, '../TJAD-CoWork-tmp'),
     extraResource: [path.resolve(__dirname, 'public')],
     win32metadata: {
-      CompanyName: 'aionui',
+      CompanyName: 'tjadcowork',
       FileDescription: 'AI Agent Desktop Interface',
-      OriginalFilename: 'AionUi.exe', // 简化文件名
-      ProductName: 'AionUi',
-      InternalName: 'AionUi',
+      OriginalFilename: 'TJAD-CoWork.exe', // 简化文件名
+      ProductName: 'TJAD-CoWork',
+      InternalName: 'TJAD-CoWork',
       FileVersion: packageJson.version,
       ProductVersion: packageJson.version,
     },
@@ -125,8 +125,8 @@ module.exports = {
       ? [
           new MakerSquirrel(
             {
-              name: 'AionUi', // 必须与 package.json 的 name 一致
-              authors: 'aionui', // 任意名称
+              name: 'TJAD-CoWork', // 必须与 package.json 的 name 一致
+              authors: 'tjadcowork', // 任意名称
               setupExe: apkName + '.exe',
               // 禁用自动更新
               remoteReleases: '',
@@ -148,10 +148,10 @@ module.exports = {
     // Windows MSI installer (WiX) - alternative to Squirrel
     new MakerWix(
       {
-        name: 'AionUi',
+        name: 'TJAD-CoWork',
         description: 'AI Agent Desktop Interface',
-        exe: 'AionUi',
-        manufacturer: 'aionui',
+        exe: 'TJAD-CoWork',
+        manufacturer: 'tjadcowork',
         version: packageJson.version,
         ui: {
           chooseDirectory: true,
@@ -181,7 +181,7 @@ module.exports = {
       platforms: ['linux'],
       config: {
         options: {
-          name: 'aionui',
+          name: 'tjadcowork',
           description: packageJson.description,
         },
       },
@@ -191,7 +191,7 @@ module.exports = {
       platforms: ['linux'],
       config: {
         options: {
-          maintainer: 'aionui',
+          maintainer: 'tjadcowork',
           description: packageJson.description,
         },
       },
